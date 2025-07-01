@@ -1,0 +1,3 @@
+# Ignore the API key file
+# This file contains sensitive information and should not be tracked by Git
+api_key.docx
